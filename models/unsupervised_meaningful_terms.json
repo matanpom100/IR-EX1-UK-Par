@@ -1,0 +1,1602 @@
+[
+  {
+    "term": "ibca",
+    "avg_score": 6.401769230769229,
+    "sum_score": 83.22299999999998,
+    "doc_count": 13,
+    "var_score": 1.4682871005917306,
+    "rank_score": 16.89463601096697
+  },
+  {
+    "term": "cpa",
+    "avg_score": 6.93688888888889,
+    "sum_score": 62.43200000000001,
+    "doc_count": 9,
+    "var_score": 3.2743674320987495,
+    "rank_score": 15.972776947311589
+  },
+  {
+    "term": "icrc",
+    "avg_score": 8.143333333333333,
+    "sum_score": 48.86,
+    "doc_count": 6,
+    "var_score": 4.672198222222235,
+    "rank_score": 15.846194980473767
+  },
+  {
+    "term": "ipp",
+    "avg_score": 5.51975,
+    "sum_score": 88.316,
+    "doc_count": 16,
+    "var_score": 1.28962931249999,
+    "rank_score": 15.638629355854299
+  },
+  {
+    "term": "chagossian",
+    "avg_score": 5.4051875,
+    "sum_score": 86.483,
+    "doc_count": 16,
+    "var_score": 2.3084511523437428,
+    "rank_score": 15.31404935212586
+  },
+  {
+    "term": "mauritian",
+    "avg_score": 5.297,
+    "sum_score": 84.752,
+    "doc_count": 16,
+    "var_score": 1.8140071249999998,
+    "rank_score": 15.007531083465777
+  },
+  {
+    "term": "cptpp",
+    "avg_score": 5.084444444444444,
+    "sum_score": 91.52,
+    "doc_count": 18,
+    "var_score": 2.057963135802474,
+    "rank_score": 14.970836409628479
+  },
+  {
+    "term": "fasher",
+    "avg_score": 6.020181818181817,
+    "sum_score": 66.222,
+    "doc_count": 11,
+    "var_score": 1.7882710578512544,
+    "rank_score": 14.959589832932812
+  },
+  {
+    "term": "arap",
+    "avg_score": 4.8757,
+    "sum_score": 97.51400000000001,
+    "doc_count": 20,
+    "var_score": 2.163403910000003,
+    "rank_score": 14.844178049608095
+  },
+  {
+    "term": "icrir",
+    "avg_score": 6.727625,
+    "sum_score": 53.821,
+    "doc_count": 8,
+    "var_score": 3.0580129843750044,
+    "rank_score": 14.782102997101584
+  },
+  {
+    "term": "slapps",
+    "avg_score": 5.564846153846154,
+    "sum_score": 72.343,
+    "doc_count": 13,
+    "var_score": 3.0534101301775145,
+    "rank_score": 14.685948030488973
+  },
+  {
+    "term": "pimping",
+    "avg_score": 5.1511875,
+    "sum_score": 82.419,
+    "doc_count": 16,
+    "var_score": 0.7660947773437492,
+    "rank_score": 14.594413162735579
+  },
+  {
+    "term": "iicsa",
+    "avg_score": 5.252066666666667,
+    "sum_score": 78.781,
+    "doc_count": 15,
+    "var_score": 1.2794232622222204,
+    "rank_score": 14.56182080845148
+  },
+  {
+    "term": "allergy",
+    "avg_score": 6.579375,
+    "sum_score": 52.635,
+    "doc_count": 8,
+    "var_score": 4.388069234374996,
+    "rank_score": 14.456364453511489
+  },
+  {
+    "term": "epl",
+    "avg_score": 6.272444444444444,
+    "sum_score": 56.452,
+    "doc_count": 9,
+    "var_score": 3.440574469135811,
+    "rank_score": 14.442837074411097
+  },
+  {
+    "term": "staunton",
+    "avg_score": 6.547750000000001,
+    "sum_score": 52.382000000000005,
+    "doc_count": 8,
+    "var_score": 4.193319687499994,
+    "rank_score": 14.386877226253233
+  },
+  {
+    "term": "lesbians",
+    "avg_score": 5.722181818181818,
+    "sum_score": 62.944,
+    "doc_count": 11,
+    "var_score": 2.0687448760330582,
+    "rank_score": 14.219087651295991
+  },
+  {
+    "term": "spaceflight",
+    "avg_score": 7.3068333333333335,
+    "sum_score": 43.841,
+    "doc_count": 6,
+    "var_score": 6.737538138888894,
+    "rank_score": 14.218441140788999
+  },
+  {
+    "term": "rsf",
+    "avg_score": 5.113266666666666,
+    "sum_score": 76.699,
+    "doc_count": 15,
+    "var_score": 1.0040507288888953,
+    "rank_score": 14.176985493804597
+  },
+  {
+    "term": "isc",
+    "avg_score": 4.721631578947368,
+    "sum_score": 89.71099999999998,
+    "doc_count": 19,
+    "var_score": 1.9699779168975127,
+    "rank_score": 14.144744104884317
+  },
+  {
+    "term": "hts",
+    "avg_score": 7.225333333333335,
+    "sum_score": 43.35200000000001,
+    "doc_count": 6,
+    "var_score": 3.377711888888861,
+    "rank_score": 14.059849463640994
+  },
+  {
+    "term": "glioblastoma",
+    "avg_score": 5.067933333333332,
+    "sum_score": 76.01899999999998,
+    "doc_count": 15,
+    "var_score": 3.406922062222236,
+    "rank_score": 14.051294805063057
+  },
+  {
+    "term": "chagossians",
+    "avg_score": 4.539095238095238,
+    "sum_score": 95.32100000000001,
+    "doc_count": 21,
+    "var_score": 2.7882978956916027,
+    "rank_score": 14.030536080788956
+  },
+  {
+    "term": "touts",
+    "avg_score": 5.445833333333333,
+    "sum_score": 65.35,
+    "doc_count": 12,
+    "var_score": 3.0968038055555667,
+    "rank_score": 13.96828670917595
+  },
+  {
+    "term": "phso",
+    "avg_score": 6.35125,
+    "sum_score": 50.81,
+    "doc_count": 8,
+    "var_score": 2.8141794375000018,
+    "rank_score": 13.955122596806666
+  },
+  {
+    "term": "fe",
+    "avg_score": 4.538099999999999,
+    "sum_score": 90.76199999999999,
+    "doc_count": 20,
+    "var_score": 2.1749597900000097,
+    "rank_score": 13.816347274632664
+  },
+  {
+    "term": "cass",
+    "avg_score": 4.395363636363637,
+    "sum_score": 96.69800000000001,
+    "doc_count": 22,
+    "var_score": 1.6071810495867638,
+    "rank_score": 13.781637258723498
+  },
+  {
+    "term": "lgb",
+    "avg_score": 5.7351,
+    "sum_score": 57.351,
+    "doc_count": 10,
+    "var_score": 2.7292868900000045,
+    "rank_score": 13.752169179025936
+  },
+  {
+    "term": "dpp",
+    "avg_score": 6.24975,
+    "sum_score": 49.998,
+    "doc_count": 8,
+    "var_score": 2.3232806875000023,
+    "rank_score": 13.732104302207038
+  },
+  {
+    "term": "yad",
+    "avg_score": 7.641600000000001,
+    "sum_score": 38.208000000000006,
+    "doc_count": 5,
+    "var_score": 0.8882842399999831,
+    "rank_score": 13.691909160053108
+  },
+  {
+    "term": "vashem",
+    "avg_score": 7.641600000000001,
+    "sum_score": 38.208000000000006,
+    "doc_count": 5,
+    "var_score": 0.8882842399999831,
+    "rank_score": 13.691909160053108
+  },
+  {
+    "term": "cunliffe",
+    "avg_score": 4.4773,
+    "sum_score": 89.54599999999999,
+    "doc_count": 20,
+    "var_score": 1.7075502100000008,
+    "rank_score": 13.63124031041908
+  },
+  {
+    "term": "yemeni",
+    "avg_score": 5.481727272727273,
+    "sum_score": 60.29900000000001,
+    "doc_count": 11,
+    "var_score": 2.534687289256194,
+    "rank_score": 13.62158055232424
+  },
+  {
+    "term": "bosnian",
+    "avg_score": 6.985666666666666,
+    "sum_score": 41.913999999999994,
+    "doc_count": 6,
+    "var_score": 3.5225055555555684,
+    "rank_score": 13.593479664584065
+  },
+  {
+    "term": "sfo",
+    "avg_score": 5.277083333333333,
+    "sum_score": 63.324999999999996,
+    "doc_count": 12,
+    "var_score": 2.758634743055559,
+    "rank_score": 13.535451505104316
+  },
+  {
+    "term": "apr",
+    "avg_score": 4.7694375,
+    "sum_score": 76.311,
+    "doc_count": 16,
+    "var_score": 1.8638263710937473,
+    "rank_score": 13.51283396864212
+  },
+  {
+    "term": "parc",
+    "avg_score": 5.436181818181819,
+    "sum_score": 59.798,
+    "doc_count": 11,
+    "var_score": 2.7370406942148655,
+    "rank_score": 13.508404349456624
+  },
+  {
+    "term": "acrs",
+    "avg_score": 4.9841428571428565,
+    "sum_score": 69.77799999999999,
+    "doc_count": 14,
+    "var_score": 2.0053998367347,
+    "rank_score": 13.497309066607857
+  },
+  {
+    "term": "lai",
+    "avg_score": 4.007214285714286,
+    "sum_score": 112.20200000000001,
+    "doc_count": 28,
+    "var_score": 1.5074690255102006,
+    "rank_score": 13.493475954147943
+  },
+  {
+    "term": "nicotine",
+    "avg_score": 4.578500000000001,
+    "sum_score": 82.41300000000001,
+    "doc_count": 18,
+    "var_score": 2.5861190277777695,
+    "rank_score": 13.48111386611355
+  },
+  {
+    "term": "yongge",
+    "avg_score": 6.924666666666667,
+    "sum_score": 41.548,
+    "doc_count": 6,
+    "var_score": 2.6215878888888895,
+    "rank_score": 13.474779145491693
+  },
+  {
+    "term": "biot",
+    "avg_score": 6.923333333333333,
+    "sum_score": 41.54,
+    "doc_count": 6,
+    "var_score": 3.181808222222223,
+    "rank_score": 13.472184598626285
+  },
+  {
+    "term": "flavours",
+    "avg_score": 5.101461538461539,
+    "sum_score": 66.319,
+    "doc_count": 13,
+    "var_score": 3.614048863905321,
+    "rank_score": 13.463049464827257
+  },
+  {
+    "term": "nppf",
+    "avg_score": 4.029407407407406,
+    "sum_score": 108.79399999999998,
+    "doc_count": 27,
+    "var_score": 1.3775883155006916,
+    "rank_score": 13.426809536296334
+  },
+  {
+    "term": "smokers",
+    "avg_score": 4.555944444444445,
+    "sum_score": 82.007,
+    "doc_count": 18,
+    "var_score": 2.6342234969135774,
+    "rank_score": 13.414700409139016
+  },
+  {
+    "term": "cornelius",
+    "avg_score": 6.430000000000001,
+    "sum_score": 45.010000000000005,
+    "doc_count": 7,
+    "var_score": 2.9845708571428418,
+    "rank_score": 13.370809113001345
+  },
+  {
+    "term": "jlr",
+    "avg_score": 4.929285714285714,
+    "sum_score": 69.01,
+    "doc_count": 14,
+    "var_score": 0.9974176326530646,
+    "rank_score": 13.34875316986168
+  },
+  {
+    "term": "gcap",
+    "avg_score": 5.368636363636363,
+    "sum_score": 59.05499999999999,
+    "doc_count": 11,
+    "var_score": 4.201526595041329,
+    "rank_score": 13.340560200293668
+  },
+  {
+    "term": "smoker",
+    "avg_score": 6.397428571428572,
+    "sum_score": 44.782000000000004,
+    "doc_count": 7,
+    "var_score": 3.2273496734693907,
+    "rank_score": 13.303078731358058
+  },
+  {
+    "term": "flaring",
+    "avg_score": 6.8344999999999985,
+    "sum_score": 41.00699999999999,
+    "doc_count": 6,
+    "var_score": 4.139043583333347,
+    "rank_score": 13.299322913718536
+  },
+  {
+    "term": "orgreave",
+    "avg_score": 5.350090909090909,
+    "sum_score": 58.851,
+    "doc_count": 11,
+    "var_score": 2.839689537190086,
+    "rank_score": 13.294476476970328
+  },
+  {
+    "term": "fifa",
+    "avg_score": 5.324909090909091,
+    "sum_score": 58.574,
+    "doc_count": 11,
+    "var_score": 1.3220528099173556,
+    "rank_score": 13.231902009516576
+  },
+  {
+    "term": "sfi",
+    "avg_score": 4.6558125,
+    "sum_score": 74.493,
+    "doc_count": 16,
+    "var_score": 2.6502084023437504,
+    "rank_score": 13.19091010242373
+  },
+  {
+    "term": "refoulement",
+    "avg_score": 4.7526,
+    "sum_score": 71.289,
+    "doc_count": 15,
+    "var_score": 2.2630371733333305,
+    "rank_score": 13.177005161316785
+  },
+  {
+    "term": "penge",
+    "avg_score": 4.7514,
+    "sum_score": 71.271,
+    "doc_count": 15,
+    "var_score": 1.66250157333333,
+    "rank_score": 13.173678054850097
+  },
+  {
+    "term": "chargeable",
+    "avg_score": 6.769500000000001,
+    "sum_score": 40.617000000000004,
+    "doc_count": 6,
+    "var_score": 5.059239583333323,
+    "rank_score": 13.172838754029945
+  },
+  {
+    "term": "alpacas",
+    "avg_score": 7.333,
+    "sum_score": 36.665,
+    "doc_count": 5,
+    "var_score": 2.787665600000004,
+    "rank_score": 13.138972187849328
+  },
+  {
+    "term": "efl",
+    "avg_score": 5.956125,
+    "sum_score": 47.649,
+    "doc_count": 8,
+    "var_score": 5.310982359375004,
+    "rank_score": 13.08694423568669
+  },
+  {
+    "term": "bick",
+    "avg_score": 6.719166666666666,
+    "sum_score": 40.315,
+    "doc_count": 6,
+    "var_score": 1.8204484722222318,
+    "rank_score": 13.074894609860825
+  },
+  {
+    "term": "nihr",
+    "avg_score": 5.095666666666666,
+    "sum_score": 61.147999999999996,
+    "doc_count": 12,
+    "var_score": 2.6167252222222253,
+    "rank_score": 13.070126942504837
+  },
+  {
+    "term": "jingye",
+    "avg_score": 5.662777777777778,
+    "sum_score": 50.965,
+    "doc_count": 9,
+    "var_score": 3.963693506172831,
+    "rank_score": 13.039027696049063
+  },
+  {
+    "term": "rwandan",
+    "avg_score": 3.986760000000001,
+    "sum_score": 99.66900000000003,
+    "doc_count": 25,
+    "var_score": 1.5647033823999887,
+    "rank_score": 12.989248953922528
+  },
+  {
+    "term": "owens",
+    "avg_score": 7.249199999999999,
+    "sum_score": 36.245999999999995,
+    "doc_count": 5,
+    "var_score": 3.177782960000009,
+    "rank_score": 12.988822744328015
+  },
+  {
+    "term": "isds",
+    "avg_score": 7.249,
+    "sum_score": 36.245,
+    "doc_count": 5,
+    "var_score": 5.82050120000001,
+    "rank_score": 12.98846439243417
+  },
+  {
+    "term": "slapp",
+    "avg_score": 5.062583333333333,
+    "sum_score": 60.751000000000005,
+    "doc_count": 12,
+    "var_score": 3.2412429097222173,
+    "rank_score": 12.98526986792882
+  },
+  {
+    "term": "venting",
+    "avg_score": 6.671666666666667,
+    "sum_score": 40.03,
+    "doc_count": 6,
+    "var_score": 2.825164888888878,
+    "rank_score": 12.982463877780699
+  },
+  {
+    "term": "synod",
+    "avg_score": 4.5804375,
+    "sum_score": 73.287,
+    "doc_count": 16,
+    "var_score": 1.3624444960937439,
+    "rank_score": 12.977356646615496
+  },
+  {
+    "term": "neurodegenerative",
+    "avg_score": 5.905625,
+    "sum_score": 47.245,
+    "doc_count": 8,
+    "var_score": 4.080186234374999,
+    "rank_score": 12.975984394531212
+  },
+  {
+    "term": "abattoirs",
+    "avg_score": 6.666333333333333,
+    "sum_score": 39.998,
+    "doc_count": 6,
+    "var_score": 3.4015275555555604,
+    "rank_score": 12.97208569031907
+  },
+  {
+    "term": "ida",
+    "avg_score": 7.2346,
+    "sum_score": 36.173,
+    "doc_count": 5,
+    "var_score": 1.6757506399999968,
+    "rank_score": 12.962663056077288
+  },
+  {
+    "term": "spen",
+    "avg_score": 4.124045454545455,
+    "sum_score": 90.72900000000001,
+    "doc_count": 22,
+    "var_score": 1.653461225206609,
+    "rank_score": 12.930920668956176
+  },
+  {
+    "term": "thereupon",
+    "avg_score": 5.198454545454546,
+    "sum_score": 57.18300000000001,
+    "doc_count": 11,
+    "var_score": 0.8570667933884231,
+    "rank_score": 12.917674268620658
+  },
+  {
+    "term": "horseracing",
+    "avg_score": 4.466058823529412,
+    "sum_score": 75.923,
+    "doc_count": 17,
+    "var_score": 1.8451585259515504,
+    "rank_score": 12.908570292632383
+  },
+  {
+    "term": "coordinating",
+    "avg_score": 6.204714285714286,
+    "sum_score": 43.433,
+    "doc_count": 7,
+    "var_score": 5.501433346938768,
+    "rank_score": 12.902340639968616
+  },
+  {
+    "term": "firstport",
+    "avg_score": 4.552125,
+    "sum_score": 72.834,
+    "doc_count": 16,
+    "var_score": 2.2980537343749994,
+    "rank_score": 12.897141293811904
+  },
+  {
+    "term": "allergies",
+    "avg_score": 5.6,
+    "sum_score": 50.4,
+    "doc_count": 9,
+    "var_score": 3.890865333333341,
+    "rank_score": 12.894476520766656
+  },
+  {
+    "term": "glo",
+    "avg_score": 4.1092272727272725,
+    "sum_score": 90.40299999999999,
+    "doc_count": 22,
+    "var_score": 1.3012957210743856,
+    "rank_score": 12.884458345574677
+  },
+  {
+    "term": "cqc",
+    "avg_score": 4.373944444444444,
+    "sum_score": 78.731,
+    "doc_count": 18,
+    "var_score": 1.107123052469145,
+    "rank_score": 12.87881251493072
+  },
+  {
+    "term": "beckenham",
+    "avg_score": 4.229349999999999,
+    "sum_score": 84.58699999999999,
+    "doc_count": 20,
+    "var_score": 1.3575783275000077,
+    "rank_score": 12.876350971985557
+  },
+  {
+    "term": "polio",
+    "avg_score": 4.454000000000001,
+    "sum_score": 75.718,
+    "doc_count": 17,
+    "var_score": 1.4348298823529362,
+    "rank_score": 12.873715809669518
+  },
+  {
+    "term": "puppies",
+    "avg_score": 4.878076923076923,
+    "sum_score": 63.415,
+    "doc_count": 13,
+    "var_score": 3.2968483786982254,
+    "rank_score": 12.873524658273201
+  },
+  {
+    "term": "badger",
+    "avg_score": 5.847875,
+    "sum_score": 46.783,
+    "doc_count": 8,
+    "var_score": 3.6711611093749994,
+    "rank_score": 12.849094675190045
+  },
+  {
+    "term": "physician",
+    "avg_score": 4.276842105263158,
+    "sum_score": 81.25999999999999,
+    "doc_count": 19,
+    "var_score": 2.2103395013850395,
+    "rank_score": 12.812273923631436
+  },
+  {
+    "term": "gauke",
+    "avg_score": 4.081318181818182,
+    "sum_score": 89.789,
+    "doc_count": 22,
+    "var_score": 1.6752619442148706,
+    "rank_score": 12.796949552457384
+  },
+  {
+    "term": "culled",
+    "avg_score": 6.573666666666667,
+    "sum_score": 39.442,
+    "doc_count": 6,
+    "var_score": 1.902407222222223,
+    "rank_score": 12.791764683173279
+  },
+  {
+    "term": "fujitsu",
+    "avg_score": 3.656656250000001,
+    "sum_score": 117.01300000000003,
+    "doc_count": 32,
+    "var_score": 1.245060850585931,
+    "rank_score": 12.785526227808667
+  },
+  {
+    "term": "dnsa",
+    "avg_score": 6.541833333333334,
+    "sum_score": 39.251000000000005,
+    "doc_count": 6,
+    "var_score": 4.622222138888873,
+    "rank_score": 12.729819876761685
+  },
+  {
+    "term": "epstein",
+    "avg_score": 5.78525,
+    "sum_score": 46.282,
+    "doc_count": 8,
+    "var_score": 5.308257687500003,
+    "rank_score": 12.711493486034364
+  },
+  {
+    "term": "puberty",
+    "avg_score": 4.393235294117647,
+    "sum_score": 74.685,
+    "doc_count": 17,
+    "var_score": 2.0328007681660836,
+    "rank_score": 12.698083219910298
+  },
+  {
+    "term": "peerage",
+    "avg_score": 5.292800000000001,
+    "sum_score": 52.928000000000004,
+    "doc_count": 10,
+    "var_score": 4.094198759999998,
+    "rank_score": 12.691580099867219
+  },
+  {
+    "term": "arbitrators",
+    "avg_score": 7.0792,
+    "sum_score": 35.396,
+    "doc_count": 5,
+    "var_score": 4.562849360000008,
+    "rank_score": 12.684223634559247
+  },
+  {
+    "term": "reddish",
+    "avg_score": 4.683285714285715,
+    "sum_score": 65.566,
+    "doc_count": 14,
+    "var_score": 1.389732204081625,
+    "rank_score": 12.682572820390538
+  },
+  {
+    "term": "gedling",
+    "avg_score": 4.4751875000000005,
+    "sum_score": 71.60300000000001,
+    "doc_count": 16,
+    "var_score": 2.208570402343746,
+    "rank_score": 12.67916094215358
+  },
+  {
+    "term": "golan",
+    "avg_score": 4.802615384615384,
+    "sum_score": 62.43399999999999,
+    "doc_count": 13,
+    "var_score": 2.739713159763319,
+    "rank_score": 12.674377332092233
+  },
+  {
+    "term": "sdr",
+    "avg_score": 3.6553225806451612,
+    "sum_score": 113.315,
+    "doc_count": 31,
+    "var_score": 1.2031257669094675,
+    "rank_score": 12.668382704056484
+  },
+  {
+    "term": "mhra",
+    "avg_score": 3.982130434782609,
+    "sum_score": 91.58900000000001,
+    "doc_count": 23,
+    "var_score": 1.5504672438563283,
+    "rank_score": 12.655424881206002
+  },
+  {
+    "term": "triples",
+    "avg_score": 4.563066666666667,
+    "sum_score": 68.446,
+    "doc_count": 15,
+    "var_score": 2.750040995555551,
+    "rank_score": 12.651507178828272
+  },
+  {
+    "term": "wickford",
+    "avg_score": 4.0335,
+    "sum_score": 88.73700000000001,
+    "doc_count": 22,
+    "var_score": 1.8305628863636336,
+    "rank_score": 12.647015919950226
+  },
+  {
+    "term": "zev",
+    "avg_score": 4.461625,
+    "sum_score": 71.386,
+    "doc_count": 16,
+    "var_score": 1.719283609375001,
+    "rank_score": 12.640735486174815
+  },
+  {
+    "term": "prs",
+    "avg_score": 5.7467500000000005,
+    "sum_score": 45.974000000000004,
+    "doc_count": 8,
+    "var_score": 1.1327716874999965,
+    "rank_score": 12.626900339806921
+  },
+  {
+    "term": "nuneaton",
+    "avg_score": 4.1441,
+    "sum_score": 82.88199999999999,
+    "doc_count": 20,
+    "var_score": 1.2247617900000058,
+    "rank_score": 12.616805434169637
+  },
+  {
+    "term": "unhcr",
+    "avg_score": 4.918083333333333,
+    "sum_score": 59.016999999999996,
+    "doc_count": 12,
+    "var_score": 1.8261247430555585,
+    "rank_score": 12.614634685775625
+  },
+  {
+    "term": "descriptors",
+    "avg_score": 4.917000000000001,
+    "sum_score": 59.004000000000005,
+    "doc_count": 12,
+    "var_score": 1.9707016666666632,
+    "rank_score": 12.611855990638379
+  },
+  {
+    "term": "kinross",
+    "avg_score": 5.073545454545454,
+    "sum_score": 55.809,
+    "doc_count": 11,
+    "var_score": 2.6794744297520765,
+    "rank_score": 12.60728683800168
+  },
+  {
+    "term": "oregon",
+    "avg_score": 7.033799999999999,
+    "sum_score": 35.169,
+    "doc_count": 5,
+    "var_score": 4.750870560000003,
+    "rank_score": 12.602877754656292
+  },
+  {
+    "term": "crossbows",
+    "avg_score": 6.475666666666666,
+    "sum_score": 38.854,
+    "doc_count": 6,
+    "var_score": 3.4338305555555593,
+    "rank_score": 12.601065488565856
+  },
+  {
+    "term": "gavi",
+    "avg_score": 5.2507,
+    "sum_score": 52.507,
+    "doc_count": 10,
+    "var_score": 2.830353009999996,
+    "rank_score": 12.590628708882406
+  },
+  {
+    "term": "hoyle",
+    "avg_score": 5.238200000000001,
+    "sum_score": 52.382000000000005,
+    "doc_count": 10,
+    "var_score": 2.0490517599999905,
+    "rank_score": 12.560655017972428
+  },
+  {
+    "term": "gravesham",
+    "avg_score": 4.430937500000001,
+    "sum_score": 70.89500000000001,
+    "doc_count": 16,
+    "var_score": 1.8605695585937418,
+    "rank_score": 12.553791251679092
+  },
+  {
+    "term": "bpr",
+    "avg_score": 5.051636363636364,
+    "sum_score": 55.568000000000005,
+    "doc_count": 11,
+    "var_score": 2.9683820495867757,
+    "rank_score": 12.552844792310873
+  },
+  {
+    "term": "naloxone",
+    "avg_score": 6.032428571428572,
+    "sum_score": 42.227000000000004,
+    "doc_count": 7,
+    "var_score": 4.388515102040813,
+    "rank_score": 12.544082568644919
+  },
+  {
+    "term": "flavoured",
+    "avg_score": 6.441,
+    "sum_score": 38.646,
+    "doc_count": 6,
+    "var_score": 4.129582666666664,
+    "rank_score": 12.533607270065271
+  },
+  {
+    "term": "rfa",
+    "avg_score": 4.183052631578948,
+    "sum_score": 79.47800000000001,
+    "doc_count": 19,
+    "var_score": 1.3405598393351674,
+    "rank_score": 12.531305770396006
+  },
+  {
+    "term": "whipps",
+    "avg_score": 4.624928571428571,
+    "sum_score": 64.749,
+    "doc_count": 14,
+    "var_score": 1.549275923469395,
+    "rank_score": 12.524538747940499
+  },
+  {
+    "term": "treloar",
+    "avg_score": 4.623357142857143,
+    "sum_score": 64.727,
+    "doc_count": 14,
+    "var_score": 1.4192792295918295,
+    "rank_score": 12.520283240481627
+  },
+  {
+    "term": "lebanese",
+    "avg_score": 4.177947368421053,
+    "sum_score": 79.38100000000001,
+    "doc_count": 19,
+    "var_score": 1.4026761551246523,
+    "rank_score": 12.516011768788916
+  },
+  {
+    "term": "dysphoria",
+    "avg_score": 5.695124999999999,
+    "sum_score": 45.56099999999999,
+    "doc_count": 8,
+    "var_score": 2.9808243593750063,
+    "rank_score": 12.513468621001936
+  },
+  {
+    "term": "stourbridge",
+    "avg_score": 5.210800000000001,
+    "sum_score": 52.10800000000001,
+    "doc_count": 10,
+    "var_score": 2.1357447599999944,
+    "rank_score": 12.494952687497753
+  },
+  {
+    "term": "mutuals",
+    "avg_score": 4.5066,
+    "sum_score": 67.59899999999999,
+    "doc_count": 15,
+    "var_score": 2.210575706666667,
+    "rank_score": 12.494948335645796
+  },
+  {
+    "term": "leagues",
+    "avg_score": 4.170263157894737,
+    "sum_score": 79.235,
+    "doc_count": 19,
+    "var_score": 1.5936768254847635,
+    "rank_score": 12.492991931318445
+  },
+  {
+    "term": "newhaven",
+    "avg_score": 5.42488888888889,
+    "sum_score": 48.824000000000005,
+    "doc_count": 9,
+    "var_score": 1.2567140987654248,
+    "rank_score": 12.49126828670459
+  },
+  {
+    "term": "houthi",
+    "avg_score": 3.8324800000000003,
+    "sum_score": 95.81200000000001,
+    "doc_count": 25,
+    "var_score": 1.968478809599988,
+    "rank_score": 12.48658982003657
+  },
+  {
+    "term": "childminders",
+    "avg_score": 4.168052631578948,
+    "sum_score": 79.193,
+    "doc_count": 19,
+    "var_score": 1.4480682603878066,
+    "rank_score": 12.486369786292695
+  },
+  {
+    "term": "ccrc",
+    "avg_score": 4.726999999999999,
+    "sum_score": 61.45099999999999,
+    "doc_count": 13,
+    "var_score": 1.9267401538461648,
+    "rank_score": 12.474823997091326
+  },
+  {
+    "term": "cull",
+    "avg_score": 4.726923076923076,
+    "sum_score": 61.44999999999999,
+    "doc_count": 13,
+    "var_score": 2.841084378698234,
+    "rank_score": 12.474620992681354
+  },
+  {
+    "term": "gigabit",
+    "avg_score": 3.629800000000001,
+    "sum_score": 108.89400000000002,
+    "doc_count": 30,
+    "var_score": 1.1799470933333254,
+    "rank_score": 12.464686754840187
+  },
+  {
+    "term": "alba",
+    "avg_score": 4.495333333333334,
+    "sum_score": 67.43,
+    "doc_count": 15,
+    "var_score": 1.9686760888888806,
+    "rank_score": 12.463710502708564
+  },
+  {
+    "term": "jenin",
+    "avg_score": 5.008454545454546,
+    "sum_score": 55.093,
+    "doc_count": 11,
+    "var_score": 2.4787931570247856,
+    "rank_score": 12.445542005160938
+  },
+  {
+    "term": "icgs",
+    "avg_score": 6.9432,
+    "sum_score": 34.716,
+    "doc_count": 5,
+    "var_score": 4.192473360000001,
+    "rank_score": 12.44054434674423
+  },
+  {
+    "term": "diego",
+    "avg_score": 3.2866511627906974,
+    "sum_score": 141.326,
+    "doc_count": 43,
+    "var_score": 0.8097405527312063,
+    "rank_score": 12.437311260537957
+  },
+  {
+    "term": "acas",
+    "avg_score": 4.846166666666666,
+    "sum_score": 58.153999999999996,
+    "doc_count": 12,
+    "var_score": 2.7092494722222327,
+    "rank_score": 12.430172077818183
+  },
+  {
+    "term": "cma",
+    "avg_score": 3.617833333333334,
+    "sum_score": 108.53500000000001,
+    "doc_count": 30,
+    "var_score": 1.8116962722222176,
+    "rank_score": 12.423593374626513
+  },
+  {
+    "term": "mclaren",
+    "avg_score": 4.9978181818181815,
+    "sum_score": 54.97599999999999,
+    "doc_count": 11,
+    "var_score": 2.0135961487603318,
+    "rank_score": 12.419111634431372
+  },
+  {
+    "term": "tilly",
+    "avg_score": 5.391777777777778,
+    "sum_score": 48.525999999999996,
+    "doc_count": 9,
+    "var_score": 1.7057615061728413,
+    "rank_score": 12.415027135847675
+  },
+  {
+    "term": "intertrade",
+    "avg_score": 4.837583333333334,
+    "sum_score": 58.051,
+    "doc_count": 12,
+    "var_score": 1.3730664097222203,
+    "rank_score": 12.408156262499974
+  },
+  {
+    "term": "strangulation",
+    "avg_score": 4.378625,
+    "sum_score": 70.058,
+    "doc_count": 16,
+    "var_score": 1.4326498593749974,
+    "rank_score": 12.405578778618152
+  },
+  {
+    "term": "winnie",
+    "avg_score": 5.1728,
+    "sum_score": 51.727999999999994,
+    "doc_count": 10,
+    "var_score": 3.450125560000007,
+    "rank_score": 12.403832667131411
+  },
+  {
+    "term": "lobular",
+    "avg_score": 5.172499999999999,
+    "sum_score": 51.724999999999994,
+    "doc_count": 10,
+    "var_score": 3.4194830500000073,
+    "rank_score": 12.40311329854957
+  },
+  {
+    "term": "furnaces",
+    "avg_score": 3.460685714285713,
+    "sum_score": 121.12399999999995,
+    "doc_count": 35,
+    "var_score": 1.2866371297959205,
+    "rank_score": 12.401432797187363
+  },
+  {
+    "term": "alaa",
+    "avg_score": 3.9018260869565218,
+    "sum_score": 89.742,
+    "doc_count": 23,
+    "var_score": 1.2284121436672955,
+    "rank_score": 12.400213341003711
+  },
+  {
+    "term": "microplastics",
+    "avg_score": 5.6365,
+    "sum_score": 45.092,
+    "doc_count": 8,
+    "var_score": 2.8184105000000024,
+    "rank_score": 12.384656330155602
+  },
+  {
+    "term": "genocides",
+    "avg_score": 5.954428571428572,
+    "sum_score": 41.681000000000004,
+    "doc_count": 7,
+    "var_score": 3.116367673469391,
+    "rank_score": 12.381886128393893
+  },
+  {
+    "term": "bioethanol",
+    "avg_score": 5.634125,
+    "sum_score": 45.073,
+    "doc_count": 8,
+    "var_score": 2.6013361093750014,
+    "rank_score": 12.379437921784428
+  },
+  {
+    "term": "evs",
+    "avg_score": 4.2817647058823525,
+    "sum_score": 72.78999999999999,
+    "doc_count": 17,
+    "var_score": 1.36184029757786,
+    "rank_score": 12.375891779838929
+  },
+  {
+    "term": "bolsover",
+    "avg_score": 4.279058823529412,
+    "sum_score": 72.744,
+    "doc_count": 17,
+    "var_score": 1.9092535847750831,
+    "rank_score": 12.3680707739058
+  },
+  {
+    "term": "garcia",
+    "avg_score": 3.267674418604652,
+    "sum_score": 140.51000000000002,
+    "doc_count": 43,
+    "var_score": 0.8498269172525621,
+    "rank_score": 12.365499661903604
+  },
+  {
+    "term": "cuckooing",
+    "avg_score": 4.561714285714285,
+    "sum_score": 63.864,
+    "doc_count": 14,
+    "var_score": 1.8235570612244913,
+    "rank_score": 12.353351288799395
+  },
+  {
+    "term": "stillbirth",
+    "avg_score": 4.559642857142857,
+    "sum_score": 63.835,
+    "doc_count": 14,
+    "var_score": 2.1083985153061207,
+    "rank_score": 12.347741756239971
+  },
+  {
+    "term": "ion",
+    "avg_score": 4.445266666666666,
+    "sum_score": 66.67899999999999,
+    "doc_count": 15,
+    "var_score": 2.16190886222223,
+    "rank_score": 12.324896227348423
+  },
+  {
+    "term": "menopause",
+    "avg_score": 3.495060606060606,
+    "sum_score": 115.337,
+    "doc_count": 33,
+    "var_score": 0.9860259963269016,
+    "rank_score": 12.324843752353159
+  },
+  {
+    "term": "hindley",
+    "avg_score": 5.926857142857144,
+    "sum_score": 41.48800000000001,
+    "doc_count": 7,
+    "var_score": 1.6269441224489682,
+    "rank_score": 12.324552954459007
+  },
+  {
+    "term": "spennymoor",
+    "avg_score": 5.1370000000000005,
+    "sum_score": 51.370000000000005,
+    "doc_count": 10,
+    "var_score": 2.2385027999999956,
+    "rank_score": 12.31798801636523
+  },
+  {
+    "term": "transpennine",
+    "avg_score": 4.182444444444444,
+    "sum_score": 75.28399999999999,
+    "doc_count": 18,
+    "var_score": 1.2917584691358037,
+    "rank_score": 12.314952450420348
+  },
+  {
+    "term": "interflex",
+    "avg_score": 4.4408666666666665,
+    "sum_score": 66.613,
+    "doc_count": 15,
+    "var_score": 1.3182558488888922,
+    "rank_score": 12.312696836970568
+  },
+  {
+    "term": "pedicabs",
+    "avg_score": 4.545857142857144,
+    "sum_score": 63.64200000000001,
+    "doc_count": 14,
+    "var_score": 2.8713401224489736,
+    "rank_score": 12.310409349896206
+  },
+  {
+    "term": "exoneration",
+    "avg_score": 4.439066666666666,
+    "sum_score": 66.586,
+    "doc_count": 15,
+    "var_score": 1.8424311288888937,
+    "rank_score": 12.307706177270537
+  },
+  {
+    "term": "goats",
+    "avg_score": 6.8678,
+    "sum_score": 34.339,
+    "doc_count": 5,
+    "var_score": 1.8944417599999994,
+    "rank_score": 12.305445682764436
+  },
+  {
+    "term": "barge",
+    "avg_score": 4.655692307692307,
+    "sum_score": 60.524,
+    "doc_count": 13,
+    "var_score": 1.8639423668639061,
+    "rank_score": 12.28663890904876
+  },
+  {
+    "term": "vj",
+    "avg_score": 4.655615384615385,
+    "sum_score": 60.523,
+    "doc_count": 13,
+    "var_score": 2.730354698224847,
+    "rank_score": 12.286435904638791
+  },
+  {
+    "term": "rugeley",
+    "avg_score": 5.5897499999999996,
+    "sum_score": 44.717999999999996,
+    "doc_count": 8,
+    "var_score": 1.9739396875000068,
+    "rank_score": 12.281936081165131
+  },
+  {
+    "term": "counterparty",
+    "avg_score": 5.588375,
+    "sum_score": 44.707,
+    "doc_count": 8,
+    "var_score": 3.606430734375003,
+    "rank_score": 12.278914897371296
+  },
+  {
+    "term": "microchipping",
+    "avg_score": 4.9377272727272725,
+    "sum_score": 54.315,
+    "doc_count": 11,
+    "var_score": 2.38380347107438,
+    "rank_score": 12.269791334839567
+  },
+  {
+    "term": "keeper",
+    "avg_score": 5.898714285714285,
+    "sum_score": 41.291,
+    "doc_count": 7,
+    "var_score": 4.561611918367355,
+    "rank_score": 12.266031528214585
+  },
+  {
+    "term": "renter",
+    "avg_score": 5.897428571428571,
+    "sum_score": 41.282,
+    "doc_count": 7,
+    "var_score": 3.158779102040832,
+    "rank_score": 12.263357960518139
+  },
+  {
+    "term": "raymond",
+    "avg_score": 5.1131,
+    "sum_score": 51.131,
+    "doc_count": 10,
+    "var_score": 1.5248832900000018,
+    "rank_score": 12.260678319345349
+  },
+  {
+    "term": "alexis",
+    "avg_score": 4.323437500000001,
+    "sum_score": 69.17500000000001,
+    "doc_count": 16,
+    "var_score": 2.150735871093744,
+    "rank_score": 12.249220817193049
+  },
+  {
+    "term": "fta",
+    "avg_score": 4.323125,
+    "sum_score": 69.17,
+    "doc_count": 16,
+    "var_score": 1.6017453593749984,
+    "rank_score": 12.24833543802303
+  },
+  {
+    "term": "bcsss",
+    "avg_score": 4.641153846153847,
+    "sum_score": 60.335,
+    "doc_count": 13,
+    "var_score": 3.49087628402366,
+    "rank_score": 12.248271075564356
+  },
+  {
+    "term": "dewi",
+    "avg_score": 6.835000000000001,
+    "sum_score": 34.175000000000004,
+    "doc_count": 5,
+    "var_score": 3.673310399999984,
+    "rank_score": 12.246675972173756
+  },
+  {
+    "term": "phoebe",
+    "avg_score": 5.5695,
+    "sum_score": 44.556,
+    "doc_count": 8,
+    "var_score": 0.9231185000000011,
+    "rank_score": 12.237442283474074
+  },
+  {
+    "term": "hallett",
+    "avg_score": 5.313666666666666,
+    "sum_score": 47.823,
+    "doc_count": 9,
+    "var_score": 3.2661751111111172,
+    "rank_score": 12.235169655806027
+  },
+  {
+    "term": "buxton",
+    "avg_score": 4.516357142857143,
+    "sum_score": 63.229,
+    "doc_count": 14,
+    "var_score": 1.9987010867346946,
+    "rank_score": 12.23052186896369
+  },
+  {
+    "term": "worsley",
+    "avg_score": 5.093999999999999,
+    "sum_score": 50.93999999999999,
+    "doc_count": 10,
+    "var_score": 2.2576472000000045,
+    "rank_score": 12.2148785196349
+  },
+  {
+    "term": "receiver",
+    "avg_score": 5.299555555555555,
+    "sum_score": 47.696,
+    "doc_count": 9,
+    "var_score": 2.6740113580246962,
+    "rank_score": 12.202677621716001
+  },
+  {
+    "term": "wyn",
+    "avg_score": 3.6594074074074068,
+    "sum_score": 98.80399999999999,
+    "doc_count": 27,
+    "var_score": 1.4314092043895812,
+    "rank_score": 12.19389386753151
+  },
+  {
+    "term": "uda",
+    "avg_score": 5.5395,
+    "sum_score": 44.316,
+    "doc_count": 8,
+    "var_score": 2.6114062499999946,
+    "rank_score": 12.171525546153989
+  },
+  {
+    "term": "colonna",
+    "avg_score": 3.9969499999999996,
+    "sum_score": 79.939,
+    "doc_count": 20,
+    "var_score": 1.3336005475000015,
+    "rank_score": 12.168803957458634
+  },
+  {
+    "term": "licensee",
+    "avg_score": 5.5378750000000005,
+    "sum_score": 44.303000000000004,
+    "doc_count": 8,
+    "var_score": 3.097990359374986,
+    "rank_score": 12.167955056215819
+  },
+  {
+    "term": "blasphemy",
+    "avg_score": 4.209294117647058,
+    "sum_score": 71.55799999999999,
+    "doc_count": 17,
+    "var_score": 1.7601787958477573,
+    "rank_score": 12.166424838325513
+  },
+  {
+    "term": "ehcp",
+    "avg_score": 3.344054054054054,
+    "sum_score": 123.73,
+    "doc_count": 37,
+    "var_score": 1.0899183214024823,
+    "rank_score": 12.164284744403938
+  },
+  {
+    "term": "stanmore",
+    "avg_score": 5.0703000000000005,
+    "sum_score": 50.703,
+    "doc_count": 10,
+    "var_score": 1.4283114099999992,
+    "rank_score": 12.15804840166958
+  },
+  {
+    "term": "assad",
+    "avg_score": 3.776416666666666,
+    "sum_score": 90.63399999999999,
+    "doc_count": 24,
+    "var_score": 1.850322909722225,
+    "rank_score": 12.155816312962685
+  },
+  {
+    "term": "dai",
+    "avg_score": 5.5322499999999994,
+    "sum_score": 44.257999999999996,
+    "doc_count": 8,
+    "var_score": 3.471775937500002,
+    "rank_score": 12.1555956679683
+  },
+  {
+    "term": "albion",
+    "avg_score": 3.7762916666666673,
+    "sum_score": 90.63100000000001,
+    "doc_count": 24,
+    "var_score": 1.1188361232638844,
+    "rank_score": 12.155413953484581
+  },
+  {
+    "term": "viagogo",
+    "avg_score": 5.841714285714285,
+    "sum_score": 40.891999999999996,
+    "doc_count": 7,
+    "var_score": 4.600706204081646,
+    "rank_score": 12.147503360338833
+  },
+  {
+    "term": "rspca",
+    "avg_score": 5.5261249999999995,
+    "sum_score": 44.208999999999996,
+    "doc_count": 8,
+    "var_score": 3.2107023593750093,
+    "rank_score": 12.142137667432115
+  },
+  {
+    "term": "refillable",
+    "avg_score": 5.838857142857143,
+    "sum_score": 40.872,
+    "doc_count": 7,
+    "var_score": 3.3137638367346867,
+    "rank_score": 12.141562098791178
+  },
+  {
+    "term": "samoa",
+    "avg_score": 4.884,
+    "sum_score": 53.724000000000004,
+    "doc_count": 11,
+    "var_score": 1.89170399999999,
+    "rank_score": 12.136284077564595
+  },
+  {
+    "term": "cbam",
+    "avg_score": 4.728916666666667,
+    "sum_score": 56.747,
+    "doc_count": 12,
+    "var_score": 1.2196200763888854,
+    "rank_score": 12.129431765655818
+  },
+  {
+    "term": "leonard",
+    "avg_score": 4.879909090909091,
+    "sum_score": 53.679,
+    "doc_count": 11,
+    "var_score": 1.878746446280985,
+    "rank_score": 12.126118550360918
+  },
+  {
+    "term": "uc",
+    "avg_score": 4.594846153846154,
+    "sum_score": 59.733,
+    "doc_count": 13,
+    "var_score": 2.016528591715975,
+    "rank_score": 12.126062420762173
+  },
+  {
+    "term": "trawling",
+    "avg_score": 4.594769230769231,
+    "sum_score": 59.732,
+    "doc_count": 13,
+    "var_score": 2.6376931005917186,
+    "rank_score": 12.1258594163522
+  },
+  {
+    "term": "bess",
+    "avg_score": 6.2313333333333345,
+    "sum_score": 37.388000000000005,
+    "doc_count": 6,
+    "var_score": 5.483348888888884,
+    "rank_score": 12.125614775480011
+  },
+  {
+    "term": "wye",
+    "avg_score": 3.637925925925925,
+    "sum_score": 98.22399999999998,
+    "doc_count": 27,
+    "var_score": 0.9040593278463778,
+    "rank_score": 12.122313178053671
+  },
+  {
+    "term": "figen",
+    "avg_score": 4.3709999999999996,
+    "sum_score": 65.565,
+    "doc_count": 15,
+    "var_score": 2.52119093333334,
+    "rank_score": 12.118985304910082
+  },
+  {
+    "term": "stv",
+    "avg_score": 5.262,
+    "sum_score": 47.358,
+    "doc_count": 9,
+    "var_score": 1.8127864444444484,
+    "rank_score": 12.11620275933467
+  },
+  {
+    "term": "bladed",
+    "avg_score": 4.2759374999999995,
+    "sum_score": 68.41499999999999,
+    "doc_count": 16,
+    "var_score": 2.093732683593757,
+    "rank_score": 12.114643183350376
+  },
+  {
+    "term": "avanti",
+    "avg_score": 3.435242424242424,
+    "sum_score": 113.36299999999999,
+    "doc_count": 33,
+    "var_score": 1.1687394563820028,
+    "rank_score": 12.11390327733521
+  },
+  {
+    "term": "hmp",
+    "avg_score": 3.239317073170732,
+    "sum_score": 132.812,
+    "doc_count": 41,
+    "var_score": 0.839500265318259,
+    "rank_score": 12.107497008376848
+  },
+  {
+    "term": "prostate",
+    "avg_score": 3.4611875000000007,
+    "sum_score": 110.75800000000002,
+    "doc_count": 32,
+    "var_score": 1.0228172148437444,
+    "rank_score": 12.102068265403267
+  }
+]
