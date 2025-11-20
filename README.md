@@ -195,11 +195,12 @@ In this part we create document vectors using an SBERT (Sentence-BERT) model, al
 
 - `sentence_transformers.SentenceTransformer` – SBERT model.
 - Same infrastructure as SimCSE:
-  - `torch` for device selection.
-  - `tqdm` for progress bar.
-  - `json`, `os`, `glob` for file IO.
-- Output: one JSON file per document containing the SBERT embedding vector.
-- 
+- `torch` for device selection.
+- `tqdm` for progress bar.
+- `json`, `os`, `glob` for file IO.
+
+---
+
 ## 7. SVD + K-Means Clustering + Feature Importance 
 
 In this solution we reduce the BM25 matrix with SVD, then cluster with K-Means, then rank important words.
@@ -220,13 +221,12 @@ Steps:
   - How to choose K (number of clusters).  
     We tried several values and then fixed a reasonable one based on silhouette score and manual inspection.
 
-  - 
 **Visual comparison**
 
 | Words | Lemmas |
 | --- | --- |
-| ![img.png](img.png) | ![img_2.png](img_2.png) |
-| ![img_1.png](img_1.png) | ![img_3.png](img_3.png) |
+| ![Info gain terms group 1](img/info_gain_terms_group1.png) | ![Info gain terms group 2](img/info_gain_terms_group2.png) |
+| ![Chi-squared scores group 1](img/chi2_scores_group1.png) | ![Chi-squared scores group 2](img/chi2_scores_group2.png) |
 
 The paired plots show the top-20 Chi-Squared and Information Gain terms for words vs. lemmas.
 
@@ -272,7 +272,7 @@ Steps:
 
 | Words | Lemmas |
 | --- | --- |
-| ![img_4.png](img_4.png) | ![img_5.png](img_5.png) |
+| ![Topic weights matrix group 1](img/topic_weights_matrix_group1.png) | ![Topic weights matrix group 2](img/topic_weights_matrix_group2.png) |
 
 Each panel lists the top 20 words associated with every NMF topic.
 ---
@@ -312,7 +312,7 @@ Steps:
 
 | Words | Lemmas |
 | --- | --- |
-| ![img_6.png](img_6.png) | ![img_7.png](img_7.png) |
+| ![Info gain terms group 3](img/info_gain_terms_group3.png) | ![Info gain terms group 4](img/info_gain_terms_group4.png) |
 
 These bar charts summarize the manual information-gain ranking for word vs. lemma representations.
 ---
